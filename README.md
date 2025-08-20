@@ -1,6 +1,6 @@
 <img width="2816" height="1536" alt="your_logo" src="https://github.com/user-attachments/assets/23e6e247-5d66-41b4-9a10-adeb6695c5f9" />
 
-Welcome to RDSHark!
+Welcome to RDShark!
 
 This software was designed to help users better upload torrents to Real-Debrid in a very automated way. The engine under the hood has features to make sure no duplicate files will be added automatically and has reasonable constant checks to ensure no uploads happen if the Real-Debrid account has hit its hard limits of active torrents downloading. There is plans for a full account management system for RD users plus options to control how the engine handles uploads. Manual features will be included and constant expansions to this project.
 
